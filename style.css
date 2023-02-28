@@ -1,0 +1,29 @@
+img {
+  border-radius: 30px;
+  margin-left: 55%;
+  margin-top: -8%;
+}
+.section-1 {
+  margin-top: 100px;
+}
+/* body {
+  background-image: url("snimka.jpg"), url("snimka\ .jpg");
+} */
+body {
+  background-color: coral;
+}
+.section-2 {
+  border-bottom: 3px solid black;
+}
+.section-3 {
+  border-bottom: 3px solid black;
+}
+.section-4 {
+  border-bottom: 3px solid black;
+}
+.section-1 {
+  border-bottom: 3px solid black;
+}
+.section-5 {
+  border-bottom: 3px solid black;
+}
